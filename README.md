@@ -1,4 +1,3 @@
-<img width="939" height="413" alt="image" src="https://github.com/user-attachments/assets/2229af3d-5943-400b-a62d-6d878eca5420" /># Ex. No : 1
 
 # IMPLEMENTATION OF SYMBOL TABLE
 
